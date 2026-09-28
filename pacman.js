@@ -22,7 +22,7 @@ function makePac() {
     // Create image
     let newimg = document.createElement("img");
 
-    newimg.src = "./image/PacMan1.png";
+    newimg.src = "PacMan1.png";
 
     // Set image size
     newimg.width = 100;
